@@ -12,15 +12,22 @@ Delete Post: Users can delete a post, removing it permanently from the database.
 
 # Technologies Used
 Node.js: JavaScript runtime for building the backend.
+
 Express: Web framework for handling routing and middleware.
+
 EJS: Templating engine for rendering dynamic HTML pages.
+
 REST API: Follows RESTful principles for creating, reading, updating, and deleting posts.
 
 # API Endpoints
 GET /posts: Retrieve all posts.
+
 GET /posts/:id: Retrieve a single post by its ID.
+
 POST /posts: Create a new post.
+
 PUT /posts/:id: Update a post by its ID.
+
 DELETE /posts/:id: Delete a post by its ID.
 
 # Usage
